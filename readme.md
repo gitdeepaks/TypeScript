@@ -22,3 +22,7 @@
 - Number & Booleans
   -TypeInference
 - Any Keyword usage in excess is not a good practice in TS.
+- Object
+- Unions
+- Tuples
+- Interfaces
