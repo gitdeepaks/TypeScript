@@ -25,4 +25,4 @@
 - Object
 - Unions
 - Tuples
-- Interfaces
+- Interfaces - reopening of interface adding more values
