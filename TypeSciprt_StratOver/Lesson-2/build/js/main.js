@@ -7,7 +7,11 @@ myName = "Hohne";
 meanngofLife = 42;
 isLoading = true;
 album = 1991;
-album = true;
+album = "Van Halen";
+album = 5150;
 const sum = (a, b) => {
     return a + b;
 };
+let postId;
+let isActive;
+let re = /\w+/g;
